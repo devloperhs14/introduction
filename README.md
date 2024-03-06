@@ -3,7 +3,7 @@
  👋 Hi, I’m Purnendu Shukla a.k.a @devloperhs14
 - 👀 I’m interested in **Data Science**, **Machine Learning** , **Deep Learning**, **Web Developement**, **Web3 Developement using Polygon**
 - 🌱 I’m currently learning **Generative AI & Product Developement**
-- 💞️ I’m looking to collaborate on **Deep Learninf Projects**
+- 💞️ I’m looking to collaborate on **Deep Learning Projects**
 - 📫 How to reach me [LinkedIN](https://pages.github.com/](https://www.linkedin.com/in/devloperhs/)https://www.linkedin.com/in/devloperhs/)., [Twitter/X](https://twitter.com/devloper_hs).
 - 😄 Pronouns: He, Him, Bro
 - ⚡ Fun fact:
